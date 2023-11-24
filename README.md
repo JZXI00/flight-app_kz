@@ -4,15 +4,15 @@
 * Веб-фреймворк: <b>Django</b>
 
 ## Скриншоттар
-![Басты бет](./Screenshots/mainpage.PNG)
+![Басты бет](./Screenshots/mainpage.png)
 
-![Рейс](./Screenshots/flights.PNG)
+![Рейс](./Screenshots/flights.png)
 
-![Брондаулар](./Screenshots/bookings.PNG)
+![Брондаулар](./Screenshots/bookings.png)
 
-![Билет](./Screenshots/ticket.PNG)
+![Билет](./Screenshots/ticket.png)
 
-![Админ панелі](./Screenshots/admin.PNG)
+![Админ панелі](./Screenshots/admin.png)
 > <b>myapp_models.png</b> файлында ақпараттық базаның диаграммасы бар.
 
 ## Орнату
@@ -44,5 +44,7 @@ python manage.py runserver
 * Құпиясөз: Qqwerty1!
 
 ## Байланыс
+* Бұл жоба [Flight](https://github.com/ayush9304/Flight), [Ayush Kumar](https://github.com/ayush9304) жұмысына негізделген.
 * Егер сізде осы жоба жайлы сұрақтар туындаса <b>Issues</b> парақшасында сұраныс қалдырсаңыз болады. 
 * Менімен осы сілтеме бойынша Telegram желісінде байланысуға болады - [@JZX_I00](https://t.me/JZX_I00). 
+
